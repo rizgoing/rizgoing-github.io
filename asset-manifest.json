@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17c05f98.chunk.css",
+    "main.js": "/static/js/main.f06ff95f.chunk.js",
+    "main.js.map": "/static/js/main.f06ff95f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48182a07.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48182a07.js.map",
+    "static/js/2.9e2b8531.chunk.js": "/static/js/2.9e2b8531.chunk.js",
+    "static/js/2.9e2b8531.chunk.js.map": "/static/js/2.9e2b8531.chunk.js.map",
+    "static/js/3.6a35e7f3.chunk.js": "/static/js/3.6a35e7f3.chunk.js",
+    "static/js/3.6a35e7f3.chunk.js.map": "/static/js/3.6a35e7f3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.17c05f98.chunk.css.map": "/static/css/main.17c05f98.chunk.css.map",
+    "static/js/2.9e2b8531.chunk.js.LICENSE.txt": "/static/js/2.9e2b8531.chunk.js.LICENSE.txt",
+    "static/media/seconds.css": "/static/media/add-to-basket.415280ff.svg",
+    "static/media/App.css": "/static/media/bg-5.7cae65e2.jpg",
+    "static/media/sidenav.css": "/static/media/tomyam.ee48f8d1.jpg",
+    "static/media/header.css": "/static/media/menu.747fea5a.svg",
+    "static/media/cart.css": "/static/media/shopping.500a2c41.svg",
+    "static/media/sudak.3e34ff7c.jpg": "/static/media/sudak.3e34ff7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48182a07.js",
+    "static/js/2.9e2b8531.chunk.js",
+    "static/css/main.17c05f98.chunk.css",
+    "static/js/main.f06ff95f.chunk.js"
+  ]
+}
